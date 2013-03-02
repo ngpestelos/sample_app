@@ -8,7 +8,6 @@ group :development, :test do
   gem 'sqlite3', '1.3.5'
   gem 'rspec-rails', '2.11.0'
   gem 'pry'
-  gem 'thin'
 end
 
 group :assets do
@@ -33,3 +32,4 @@ group :production do
 end
 
 gem 'therubyracer'
+gem 'thin'
