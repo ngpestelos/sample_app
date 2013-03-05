@@ -16,3 +16,6 @@
 
 # Ignore undo files (vim)
 .*.un~
+
+# Ignore vagrant metadata
+.vagrant
