@@ -19,3 +19,6 @@
 
 # Ignore vagrant metadata
 .vagrant
+
+# Ignore vim swap files
+*.swp
